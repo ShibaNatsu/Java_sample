@@ -9,5 +9,7 @@ public class SampleController {
 
 	public SampleController() {
 		// TODO 自動生成されたコンストラクター・スタブ
+		
+		System.out.println("aaaaa");
 	}
 }
