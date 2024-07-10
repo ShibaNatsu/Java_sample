@@ -8,4 +8,5 @@ public class User {
 
 	public int price;
 
+	public int age;
 }
